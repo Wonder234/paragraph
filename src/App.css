@@ -1,0 +1,42 @@
+
+body{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(150, 235, 150);
+}.head{
+text-align: center;
+border: 2px solid green;
+background-color: rgb(47, 80, 62);
+color:white;
+margin-right: 40%;
+margin-left: 40%;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;
+font-style: normal;
+font-size: large;
+margin-top: 1%;
+}.submit{
+    margin-left: 1%;
+    background-color: rgb(7, 245, 7);
+    color: white;
+
+}.label{
+    color: green;
+    margin-right: 1%;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.num{
+    padding-right:0%;
+    padding-left: 0;
+}.paragraph{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;
+font-size:large ;
+
+
+}.form{
+    margin-top: 2%;
+}
