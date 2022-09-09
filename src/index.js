@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import Project from './project';
-ReactDOM.render(<Project/>,document.querySelector("#root"))
+import "./App.css"
+
+import Signup from './signup.js/signup';
+
+ReactDOM.render(<Signup/>,document.querySelector("#root"))
